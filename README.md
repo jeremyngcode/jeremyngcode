@@ -1,5 +1,4 @@
 <h1 align="center">Hi,👋 I'm Jeremy Ng</h1>
-
 <p align="center"><strong>Pianist and coding enthusiast.</strong></p>
 
 Tech Skills 💻
@@ -36,11 +35,7 @@ A simple and fast dashboard app for visualizing streams/listeners data from a Sp
 ---
 
 <h2 align="center">Connect With Me 📫</h2>
-
 <p align="center">
   <a href="https://twitter.com/kaazairl"><img src="https://img.shields.io/badge/%40kaazairl-202020?style=plastic&logo=X&logoColor=FFFFFF&%3A&labelColor=000000&link=https%3A%2F%2Ftwitter.com%2Fkaazairl"></a>
   <a href="https://discordapp.com/users/550347660889030656"><img src="https://img.shields.io/badge/kaazairl-202020?style=plastic&logo=Discord&logoColor=FFFFFF&%3A&labelColor=5865F2&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F550347660889030656"></a>
 </p>
-
-<!-- [![X](https://img.shields.io/badge/%40kaazairl-202020?style=plastic&logo=X&logoColor=FFFFFF&%3A&labelColor=000000&link=https%3A%2F%2Ftwitter.com%2Fkaazairl)](https://twitter.com/kaazairl)
-[![Discord](https://img.shields.io/badge/kaazairl-202020?style=plastic&logo=Discord&logoColor=FFFFFF&%3A&labelColor=5865F2&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F550347660889030656)](https://discordapp.com/users/550347660889030656) -->
