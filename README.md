@@ -6,21 +6,22 @@ Tech Skills 💻
 [![Skills](https://skillicons.dev/icons?i=py,html,css)](#--)
 
 [![Languages:](https://img.shields.io/badge/Languages%3A-840000)](#--)
-[![Python](https://img.shields.io/badge/Python-113e91?logo=Python&logoColor=959595)](#--)
-[![HTML5](https://img.shields.io/badge/HTML5-113e91?logo=HTML5&logoColor=959595)](#--)
-[![CSS3](https://img.shields.io/badge/CSS3-113e91?logo=CSS3&logoColor=959595)](#--) <br>
+[![Python](https://img.shields.io/badge/Python-113E91?logo=Python&logoColor=C9C9C9&labelColor=202020)](#--)
+[![HTML5](https://img.shields.io/badge/HTML5-113E91?logo=HTML5&logoColor=C9C9C9&labelColor=202020)](#--)
+[![CSS3](https://img.shields.io/badge/CSS3-113E91?logo=CSS3&logoColor=C9C9C9&labelColor=202020)](#--) <br>
 [![Libraries / Frameworks:](https://img.shields.io/badge/Libraries%20%2F%20Frameworks%3A-840000)](#--)
-[![pandas](https://img.shields.io/badge/pandas-113e91?logo=pandas&logoColor=959595)](#--)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-113e91)](#--)
-[![Flask](https://img.shields.io/badge/Flask-113e91?logo=Flask&logoColor=959595)](#--)
-[![Jinja](https://img.shields.io/badge/Jinja-113e91?logo=Jinja&logoColor=959595)](#--) <br>
+[![pandas](https://img.shields.io/badge/pandas-113E91?logo=pandas&logoColor=C9C9C9&labelColor=202020)](#--)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-113E91?labelColor=202020)](#--)
+[![Flask](https://img.shields.io/badge/Flask-113E91?logo=Flask&logoColor=C9C9C9&labelColor=202020)](#--)
+[![Jinja](https://img.shields.io/badge/Jinja-113E91?logo=Jinja&logoColor=C9C9C9&labelColor=202020)](#--) <br>
 [![Tools:](https://img.shields.io/badge/Tools%3A-840000)](#--)
-[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-113e91?logo=Sublime%20Text&logoColor=959595)](#--)
-[![Git](https://img.shields.io/badge/Git-113e91?logo=Git&logoColor=959595)](#--)
-[![GitHub](https://img.shields.io/badge/GitHub-113e91?logo=GitHub&logoColor=959595)](#--)
+[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-113E91?logo=Sublime%20Text&logoColor=C9C9C9&labelColor=202020)](#--)
+[![Git](https://img.shields.io/badge/Git-113E91?logo=Git&logoColor=C9C9C9&labelColor=202020)](#--)
+[![GitHub](https://img.shields.io/badge/GitHub-113E91?logo=GitHub&logoColor=C9C9C9&labelColor=202020)](#--)
 
 [![Currently Learning:](https://img.shields.io/badge/Currently%20Learning%3A-a35c06)](#--)
-[![JavaScript](https://img.shields.io/badge/JavaScript-113e91?logo=JavaScript&logoColor=959595)](#--)
+[![JavaScript](https://img.shields.io/badge/JavaScript-113E91?logo=JavaScript&logoColor=C9C9C9&labelColor=202020)](#--)
+
 
 ### Featured Repo📙 / Projects:
 - [**Spotify-Graphs-Dashboard**](https://github.com/jeremyngcode/Spotify-Graphs-Dashboard) <br>
