@@ -1,5 +1,7 @@
-<h1 align="center">Hi,👋 I'm Jeremy Ng</h1>
-<p align="center"><strong>Pianist and coding enthusiast.</strong></p>
+<div align="center">
+  <h1>Hi,👋 I'm Jeremy Ng</h1>
+  <p><strong>Pianist and coding enthusiast.</strong></p>
+</div>
 
 Tech Skills 💻
 ---
@@ -22,7 +24,6 @@ Tech Skills 💻
 [![Currently Learning:](https://img.shields.io/badge/Currently%20Learning%3A-a35c06)](#--)
 [![JavaScript](https://img.shields.io/badge/JavaScript-113E91?logo=JavaScript&logoColor=C9C9C9&labelColor=202020)](#--)
 
-
 ### Featured Repo📙 / Projects:
 - [**Spotify-Graphs-Dashboard**](https://github.com/jeremyngcode/Spotify-Graphs-Dashboard) <br>
 A simple and fast dashboard app for visualizing streams/listeners data from a Spotify artist's CSV file. <br>
@@ -35,8 +36,8 @@ A simple and fast dashboard app for visualizing streams/listeners data from a Sp
 
 ---
 
-<h2 align="center">Connect With Me 📫</h2>
-<p align="center">
+<div align="center">
+  <h2>Connect With Me 📫</h2>
   <a href="https://twitter.com/kaazairl"><img src="https://img.shields.io/badge/%40kaazairl-202020?style=plastic&logo=X&logoColor=FFFFFF&labelColor=000000"></a>
   <a href="https://discordapp.com/users/550347660889030656"><img src="https://img.shields.io/badge/kaazairl-202020?style=plastic&logo=Discord&logoColor=FFFFFF&labelColor=5865F2"></a>
-</p>
+</div>
