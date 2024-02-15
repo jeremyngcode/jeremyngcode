@@ -13,6 +13,7 @@ Tech Skills 💻
 [![CSS3](https://img.shields.io/badge/CSS3-113E91?logo=CSS3&logoColor=C9C9C9&labelColor=202020)](#--) <br>
 [![Libraries / Frameworks:](https://img.shields.io/badge/Libraries%20%2F%20Frameworks%3A-840000)](#--)
 [![pandas](https://img.shields.io/badge/pandas-113E91?logo=pandas&logoColor=C9C9C9&labelColor=202020)](#--)
+[![openpyxl](https://img.shields.io/badge/openpyxl-113E91?labelColor=202020)](#--)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-113E91?labelColor=202020)](#--)
 [![Flask](https://img.shields.io/badge/Flask-113E91?logo=Flask&logoColor=C9C9C9&labelColor=202020)](#--)
 [![Jinja](https://img.shields.io/badge/Jinja-113E91?logo=Jinja&logoColor=C9C9C9&labelColor=202020)](#--) <br>
