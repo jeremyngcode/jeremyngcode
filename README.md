@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi,👋 I'm Jeremy Ng</h1>
-  <p><strong>Pianist and coding enthusiast.</strong></p>
+	<h1>Hi,👋 I'm Jeremy Ng</h1>
+	<p><strong>Pianist and coding enthusiast.</strong></p>
 </div>
 
 Tech Skills 💻
@@ -27,8 +27,9 @@ Tech Skills 💻
 
 ### Featured Repo📙 / Projects:
 - [**Spotify-Graphs-Dashboard**](https://github.com/jeremyngcode/Spotify-Graphs-Dashboard) <br>
-A simple and fast dashboard app for visualizing streams/listeners data from a Spotify artist's CSV file. <br>
-<a href="https://github.com/jeremyngcode/Spotify-Graphs-Dashboard"><img src="https://github.com/jeremyngcode/Spotify-Graphs-Dashboard/assets/156220343/6e4f51dd-7650-4679-a535-d907f55d105a" width="400"></a>
+  A simple and fast dashboard app for visualizing streams/listeners data from a Spotify artist's CSV file.
+
+  <a href="https://github.com/jeremyngcode/Spotify-Graphs-Dashboard"><img src="https://github.com/jeremyngcode/Spotify-Graphs-Dashboard/assets/156220343/6e4f51dd-7650-4679-a535-d907f55d105a" width="400"></a>
 
 ### Also check out my music🎹 on..
 [![Spotify](https://img.shields.io/badge/Spotify-202020?style=for-the-badge&logo=Spotify&logoColor=000000&labelColor=1ED760)](https://open.spotify.com/artist/6mdGjVrAY95ecXnVgtefti)
@@ -38,7 +39,7 @@ A simple and fast dashboard app for visualizing streams/listeners data from a Sp
 ---
 
 <div align="center">
-  <h2>Connect With Me 📫</h2>
-  <a href="https://twitter.com/kaazairl"><img src="https://img.shields.io/badge/%40kaazairl-202020?style=plastic&logo=X&logoColor=FFFFFF&labelColor=000000"></a>
-  <a href="https://discordapp.com/users/550347660889030656"><img src="https://img.shields.io/badge/kaazairl-202020?style=plastic&logo=Discord&logoColor=FFFFFF&labelColor=5865F2"></a>
+	<h2>Connect With Me 📫</h2>
+	<a href="https://twitter.com/kaazairl"><img src="https://img.shields.io/badge/%40kaazairl-202020?style=plastic&logo=X&logoColor=FFFFFF&labelColor=000000"></a>
+	<a href="https://discordapp.com/users/550347660889030656"><img src="https://img.shields.io/badge/kaazairl-202020?style=plastic&logo=Discord&logoColor=FFFFFF&labelColor=5865F2"></a>
 </div>
