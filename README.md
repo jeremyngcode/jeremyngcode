@@ -22,8 +22,8 @@ Tech Skills 💻
 [![Git](https://img.shields.io/badge/Git-113E91?logo=Git&logoColor=C9C9C9&labelColor=202020)](#--)
 [![GitHub](https://img.shields.io/badge/GitHub-113E91?logo=GitHub&logoColor=C9C9C9&labelColor=202020)](#--)
 
-[![Currently Learning:](https://img.shields.io/badge/Currently%20Learning%3A-a35c06)](#--)
-[![JavaScript](https://img.shields.io/badge/JavaScript-113E91?logo=JavaScript&logoColor=C9C9C9&labelColor=202020)](#--)
+[![Currently Learning:](https://img.shields.io/badge/Currently%20Learning%3A-A35C06)](#--)
+[![new stuff](https://img.shields.io/badge/new%20stuff-113E91?labelColor=202020)](#--)
 
 ### Featured Repo📙 / Projects:
 - [**Spotify-Graphs-Dashboard**](https://github.com/jeremyngcode/Spotify-Graphs-Dashboard) <br>
