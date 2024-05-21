@@ -31,6 +31,11 @@ Tech Skills 💻
 
   <a href="https://github.com/jeremyngcode/Spotify-Graphs-Dashboard"><img src="https://github.com/jeremyngcode/Spotify-Graphs-Dashboard/assets/156220343/6e4f51dd-7650-4679-a535-d907f55d105a" width="400"></a>
 
+- [**Spotify-Playcount-Checker**](https://github.com/jeremyngcode/Spotify-Playcount-Checker) <br>
+  An app for retrieving the playcount and popularity data of any Spotify artist, album, or track.
+
+  <a href="https://github.com/jeremyngcode/Spotify-Playcount-Checker"><img src="https://github.com/jeremyngcode/Spotify-Playcount-Checker/assets/156220343/c2ec97a3-5b4e-4994-8ebf-e4c32b27c990" width="400"></a>
+
 ### Also check out my music🎹 on..
 [![Spotify](https://img.shields.io/badge/Spotify-202020?style=for-the-badge&logo=Spotify&logoColor=000000&labelColor=1ED760)](https://open.spotify.com/artist/6mdGjVrAY95ecXnVgtefti)
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-202020?style=for-the-badge&logo=Apple%20Music&logoColor=FFFFFF&labelColor=FA243C)](https://music.apple.com/us/artist/jeremy-ng/1023075255)
