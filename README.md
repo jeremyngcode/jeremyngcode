@@ -29,12 +29,12 @@ Tech Skills 💻
 - [**Spotify-Graphs-Dashboard**](https://github.com/jeremyngcode/Spotify-Graphs-Dashboard) <br>
   A simple and fast dashboard app for visualizing streams/listeners data from a Spotify artist's CSV file.
 
-  <a href="https://github.com/jeremyngcode/Spotify-Graphs-Dashboard"><img src="https://github.com/jeremyngcode/Spotify-Graphs-Dashboard/assets/156220343/6e4f51dd-7650-4679-a535-d907f55d105a" width="400"></a>
+  <a href="https://github.com/jeremyngcode/Spotify-Graphs-Dashboard"><img src="https://github.com/jeremyngcode/Spotify-Graphs-Dashboard/assets/156220343/6e4f51dd-7650-4679-a535-d907f55d105a" alt="Spotify-Graphs-Dashboard" width="400"></a>
 
 - [**Spotify-Playcount-Checker**](https://github.com/jeremyngcode/Spotify-Playcount-Checker) <br>
   An app for retrieving the playcount and popularity data of any Spotify artist, album, or track.
 
-  <a href="https://github.com/jeremyngcode/Spotify-Playcount-Checker"><img src="https://github.com/jeremyngcode/Spotify-Playcount-Checker/assets/156220343/2378a814-2304-4930-839c-35480f5c6948" width="400"></a>
+  <a href="https://github.com/jeremyngcode/Spotify-Playcount-Checker"><img src="https://github.com/jeremyngcode/Spotify-Playcount-Checker/assets/156220343/d841fee7-eee3-4d46-b822-26a73a42610a" alt="Spotify-Playcount-Checker" width="400"></a>
 
 ### Also check out my music🎹 on..
 [![Spotify](https://img.shields.io/badge/Spotify-202020?style=for-the-badge&logo=Spotify&logoColor=000000&labelColor=1ED760)](https://open.spotify.com/artist/6mdGjVrAY95ecXnVgtefti)
