@@ -36,6 +36,11 @@ Tech Skills 💻
 
   <a href="https://github.com/jeremyngcode/Spotify-Playcount-Checker"><img src="https://github.com/jeremyngcode/Spotify-Playcount-Checker/assets/156220343/d841fee7-eee3-4d46-b822-26a73a42610a" alt="Spotify-Playcount-Checker" width="400"></a>
 
+- [**Open-PTCG-Packs**](https://github.com/jeremyngcode/Open-PTCG-Packs) <br>
+  Simulate the experience of opening Pokemon packs for free!
+
+  <a href="https://github.com/jeremyngcode/Open-PTCG-Packs"><img src="https://github.com/user-attachments/assets/957247aa-00f9-4ceb-9314-346a6a8acb14" alt="Open-PTCG-Packs" width="400"></a>
+
 ### Also check out my music🎹 on..
 [![Spotify](https://img.shields.io/badge/Spotify-202020?style=for-the-badge&logo=Spotify&logoColor=000000&labelColor=1ED760)](https://open.spotify.com/artist/6mdGjVrAY95ecXnVgtefti)
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-202020?style=for-the-badge&logo=Apple%20Music&logoColor=FFFFFF&labelColor=FA243C)](https://music.apple.com/us/artist/jeremy-ng/1023075255)
